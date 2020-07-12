@@ -1,0 +1,73 @@
+
+
+h1{
+ 
+height: 500px;
+margin:0px ;
+
+padding: 50px 0px 0px;
+
+font-size: 100px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+text-align: center;
+color:tomato ;
+background-image: url(hhh.jpg);
+background-attachment: fixed;
+
+
+}
+
+samp {
+
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ word-spacing:100px ;
+
+line-height: 300px;
+text-decoration:underline ;
+
+color: whitesmoke;
+background-color:tomato;
+
+}
+
+
+
+
+
+.navbar {
+color: white;
+direction: rtl;
+background-color:slategray;
+height:15px ;
+word-spacing:5px ;
+padding:15px ;
+
+
+}
+
+
+.middle {
+
+padding: 0px 90px;
+
+}
+
+.img3 {
+
+padding:0px 150px ;
+
+
+}
+
+
+.footer {
+background-color:slategray;
+height:30px ;
+ text-align: center;
+
+font-size:20px ;
+
+
+
+}
